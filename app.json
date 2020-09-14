@@ -1,0 +1,14 @@
+{
+    "name": "test01",
+    "description": "Deploy test01 on Heroku.",
+    "keywords": ["test01"],
+    "env": {
+        "UUID": {
+            "description": "UUID",
+            "value": "6edebac3-b3bf-4225-9d37-f8a6bf30dda1"
+        }
+    },
+    "website": "https://github.com/ypyd/",
+    "repository": "https://github.com/ypyd/test01",
+    "stack": "container"
+}
