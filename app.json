@@ -1,14 +1,14 @@
 {
-    "name": "test02",
-    "description": "Deploy test02 on Heroku.",
-    "keywords": ["test02"],
+    "name": "ex01",
+    "description": "Deploy my execise 01 on Heroku.",
+    "keywords": ["ex01"],
     "env": {
         "UUID": {
             "description": "UUID",
-            "value": "eb541b21-24cb-4c76-9570-02822c816fc9"
+            "value": "70fe2ee0-e1db-48c5-9328-8ca10b0daf66"
         }
     },
-    "website": "https://github.com/ypyd/",
-    "repository": "https://github.com/ypyd/test02",
+    "website": "https://github.com/eyxy/",
+    "repository": "https://github.com/eyxy/ex01",
     "stack": "container"
 }
